@@ -1,0 +1,19 @@
+{
+  "name": "papa",
+  "version": "1.0.0",
+  "description": "skeleton project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "keywords": [
+    "skeleton"
+  ],
+  "author": "philip owusu-afriyie",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
